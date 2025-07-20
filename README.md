@@ -1,9 +1,4 @@
 
-  ____       _               _    _            _   _             
- / ___|_   _| |__   ___ _ __| | _(_)_   ____ _| |_(_) ___  _ __  
-| |  _| | | | '_ \ / _ \ '__| |/ / \ \ / / _` | __| |/ _ \| '_ \ 
-| |_| | |_| | |_) |  __/ |  |   <| |\ V / (_| | |_| | (_) | | | |
- \____|\__,_|_.__/ \___|_|  |_|\_\_| \_/ \__,_|\__|_|\___/|_| |_|
 🏆 Cybersecurity Hackathon Scheduler
 A Python-based GUI application that automates the scheduling of cybersecurity hackathon matches.
 It divides teams into groups, creates matchups, and determines winners for each round (Round 1, Quarterfinals, Semifinals, and Final) in an interactive dark-themed Tkinter interface.
@@ -34,14 +29,8 @@ hackathon_scheduler/
 │    ├── groups.png
 │    └── rounds.png
 └── README.md           # Project documentation
-📸 Screenshots
-(Add your screenshots in the screenshots folder and they will display here)
 
-1. Home Window
 
-2. Group Division
-
-3. Round Results
 
 🚀 How to Run
 1. Clone the Repository
